@@ -1,6 +1,8 @@
 EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+```
 NAME:Vasanth P
-REG NO:212224230295
+REG NO:212224230295.
+```
 Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
@@ -13,7 +15,7 @@ Algorithm:
 Else
 -	Print "Vaccine Eligibility: Yes"
 5.	Print details (e.age, e.n)
-6.	Return 0
+6.	Return 0.
  
 Program:
 
